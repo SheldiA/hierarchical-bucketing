@@ -1,0 +1,21 @@
+D:\Project c#\miapr6\miapr6\bin\Debug\miapr6.exe
+D:\Project c#\miapr6\miapr6\bin\Debug\miapr6.pdb
+D:\Project c#\miapr6\miapr6\obj\x86\Debug\miapr6.FormMain.resources
+D:\Project c#\miapr6\miapr6\obj\x86\Debug\miapr6.Properties.Resources.resources
+D:\Project c#\miapr6\miapr6\obj\x86\Debug\miapr6.csproj.GenerateResource.Cache
+D:\Project c#\miapr6\miapr6\obj\x86\Debug\miapr6.exe
+D:\Project c#\miapr6\miapr6\obj\x86\Debug\miapr6.pdb
+H:\miapr6\miapr6\obj\x86\Debug\miapr6.exe
+H:\miapr6\miapr6\obj\x86\Debug\miapr6.pdb
+H:\miapr6\miapr6\bin\Debug\miapr6.exe
+H:\miapr6\miapr6\bin\Debug\miapr6.pdb
+H:\miapr6\miapr6\obj\x86\Debug\miapr6.FormMain.resources
+H:\miapr6\miapr6\obj\x86\Debug\miapr6.Properties.Resources.resources
+H:\miapr6\miapr6\obj\x86\Debug\miapr6.csproj.GenerateResource.Cache
+K:\miapr6\miapr6\obj\x86\Debug\miapr6.exe
+K:\miapr6\miapr6\obj\x86\Debug\miapr6.pdb
+K:\miapr6\miapr6\bin\Debug\miapr6.exe
+K:\miapr6\miapr6\bin\Debug\miapr6.pdb
+K:\miapr6\miapr6\obj\x86\Debug\miapr6.FormMain.resources
+K:\miapr6\miapr6\obj\x86\Debug\miapr6.Properties.Resources.resources
+K:\miapr6\miapr6\obj\x86\Debug\miapr6.csproj.GenerateResource.Cache
